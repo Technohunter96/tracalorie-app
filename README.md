@@ -13,7 +13,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Open with LiveServer
+3. Go to file index.html and open it with LiveServer
 
 ## Usage
 
