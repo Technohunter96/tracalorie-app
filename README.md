@@ -1,5 +1,5 @@
-
-# Tracalorie Webpack
+<!-- refactored version is in master branch -->
+# Tracalorie
 
 App to track calories, meals, and workouts.
 
