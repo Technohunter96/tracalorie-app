@@ -1,5 +1,6 @@
-<!-- refactored version is in master branch -->
+
 # Tracalorie
+# "refactored version is in master branch"
 
 App to track calories, meals, and workouts.
 
