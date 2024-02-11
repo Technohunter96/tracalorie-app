@@ -1,7 +1,7 @@
 
-# Tracalorie
-# - refactored version is in master branch
+# - REFACTORED VERSION IS IN MASTER BRANCH -
 
+# Tracalorie App
 App to track calories, meals, and workouts.
 
 ## Description
